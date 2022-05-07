@@ -1,0 +1,14 @@
+body {
+  background-color: antiquewhite;
+}
+
+.Header {
+  width: 100%;
+  text-align: center;
+  color: red;
+}
+
+table {
+  width: 100%;
+  height: 100%;
+}
