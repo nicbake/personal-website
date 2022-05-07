@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.bb207ee3.css","mappings":"AAAA,KACE,wBACF,CAEA,QAGE,SAAU,CADV,iBAAkB,CADlB,UAGF,CAEA,MAEE,WAAY,CADZ,UAEF","sources":["index.css"],"sourcesContent":["body {\n  background-color: antiquewhite;\n}\n\n.Header {\n  width: 100%;\n  text-align: center;\n  color: red;\n}\n\ntable {\n  width: 100%;\n  height: 100%;\n}\n"],"names":[],"sourceRoot":""}
