@@ -1,8 +1,7 @@
 import * as React from 'react';
 
-import linkedin from "../images/linkedin_logo.png"
-import github from "../images/github_logo.png"
-import resume from "../images/resume.png"
+
+
 import logo from "../images/logo.png"
 
 import './navbar.css';
